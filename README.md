@@ -126,7 +126,7 @@ API-Security-Assessment/
 │
 ├── README.md
 ├── Report/
-│   └── API_Security_Risk_Analysis_Report.docx
+│   └── API_Security_Risk_Analysis_Report.pdf
 │
 └── Evidence/
     ├── GET_Users.png
@@ -167,7 +167,7 @@ This project was performed against a public mock API for educational purposes. N
 
 ---
 
-**Rahul**  
+**Rahul Reghu Rajan**  
 *Cybersecurity | Ethical Hacking | Security Analysis*
 
 **Future Interns — Task 03**
